@@ -148,3 +148,5 @@ Total development time: **8 hours**
 - https://mellifluous-unicorn-79170e.netlify.app/
 ## DEMO Video Download
 -https://github.com/SNEHASISH34/Quiz-App/blob/main/Recording%202025-12-11%20125640.mp4
+### Resume Link
+-https://drive.google.com/file/d/1VJxTWTXTy3JnzJtZnHWXW3V_PKEyptfo/view?usp=drive_link
