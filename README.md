@@ -144,5 +144,7 @@ Total development time: **8 hours**
 - Implement timed quizzes
 - Add progress tracking across sessions
 - Mobile responsive design
-# Deployed Link 
+## Deployed Link 
 - https://mellifluous-unicorn-79170e.netlify.app/
+## DEMO Video Download
+-https://github.com/SNEHASISH34/Quiz-App/blob/main/Recording%202025-12-11%20125640.mp4
