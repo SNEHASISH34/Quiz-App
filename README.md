@@ -61,58 +61,7 @@ src/
 └── vite-env.d.ts                # Vite environment types
 ```
 
-## Setup Instructions
 
-### Prerequisites
-- Node.js (v16 or higher)
-- npm (v7 or higher)
-
-### Installation
-
-1. **Clone the repository** (if applicable) or navigate to the project directory:
-   ```bash
-   cd project
-   ```
-
-2. **Install dependencies**:
-   ```bash
-   npm install
-   ```
-
-3. **Start the development server**:
-   ```bash
-   npm run dev
-   ```
-   The application will be available at `http://localhost:5173`
-
-4. **Build for production**:
-   ```bash
-   npm run build
-   ```
-   Output files will be in the `dist/` directory
-
-### Deployment
-
-#### Deploy on Netlify
-
-**Option 1: Via GitHub (Recommended)**
-1. Push your repository to GitHub
-2. Go to [Netlify](https://netlify.com)
-3. Click "New site from Git"
-4. Select your GitHub repository
-5. Set build command: `npm run build`
-6. Set publish directory: `dist`
-7. Deploy
-
-**Option 2: Direct Upload**
-1. Build the project: `npm run build`
-2. Go to Netlify and drag-drop the `dist/` folder
-3. Your site will be live immediately
-
-**Option 3: Netlify CLI**
-1. Install Netlify CLI: `npm install -g netlify-cli`
-2. Build: `npm run build`
-3. Deploy: `netlify deploy --prod --dir dist`
 
 ## Key Features Implementation Details
 
@@ -171,22 +120,6 @@ src/
 - **Focus Management**: Auto-scroll to top on question change
 - **Button States**: Disabled buttons clearly indicate unavailability
 
-## Development Tips
-
-### Running Tests
-```bash
-npm run typecheck
-```
-
-### Code Quality
-```bash
-npm run lint
-```
-
-### Preview Production Build
-```bash
-npm run preview
-```
 
 ## Time Spent
 
@@ -211,7 +144,3 @@ Total development time: **8 hours**
 - Implement timed quizzes
 - Add progress tracking across sessions
 - Mobile responsive design
-
-## License
-
-MIT
